@@ -1,2 +1,3 @@
 Select * 
 From P1MST
+Where CompanyNumber = 1
